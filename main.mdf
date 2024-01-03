@@ -10,4 +10,6 @@
 #show_caption=false
 
 #### Submodule setting
-#Plugin_AnyScript_Command=python.exe -u test.py
+# Plugin_AnyScript_Command=python.exe -u test.py
+Plugin_AnyScript_Command1=python.exe -u asr.py
+Plugin_AnyScript_Command2=python.exe -u chatgpt.py
